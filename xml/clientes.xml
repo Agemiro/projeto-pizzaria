@@ -1,0 +1,14 @@
+<list>
+  <string-array>
+    <string>cliente</string>
+    <string>111.111.111-11</string>
+    <string>1</string>
+    <string>(11) 1 1111-1111</string>
+  </string-array>
+  <string-array>
+    <string>Agemiro Alves de Sousa Neto</string>
+    <string>222.222.222-22</string>
+    <string>2</string>
+    <string>(22) 2 2222-2222</string>
+  </string-array>
+</list>
